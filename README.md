@@ -1,0 +1,1 @@
+High-level cognitive models and LLMs excel at complex reasoning and dynamic planning, but their output is inherently non-deterministic. When applied directly to physical systems, hallucinations, prompt injection attacks, or subtle reasoning drift can translate into catastrophic collisions, structural over-stress, or unverified digital transactions in safety-critical environments.
